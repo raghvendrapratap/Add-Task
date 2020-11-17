@@ -1,0 +1,27 @@
+body {
+    margin: auto;
+    padding: 5%;
+}
+
+input[type=text] {
+    border: 2px black solid;
+    width: 30%;
+    height: 20px;
+    margin: 10px 2%;
+}
+
+.btn {
+    font-size: 90%;
+    width: 10%;
+    height: 25px;
+    background-color: rgb(52, 255, 187);
+    margin: 2px;
+}
+
+.del {
+    background-color: rgb(228, 52, 52);
+}
+
+.edit {
+    background-color: rgb(169, 155, 252);
+}
