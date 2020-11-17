@@ -1,7 +1,6 @@
 var todoArray = new Array();
 var completeArray = new Array();
-var todoconfigure = true;
-var completeconfigure = true;
+
 
 function addtask() {
     var taskName = document.getElementById("addbtn").value;
